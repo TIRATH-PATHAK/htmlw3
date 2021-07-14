@@ -216,3 +216,11 @@ div.subMain{
 .btns .prevNext button{
     padding: 1%;
 }
+
+.title ,.subMain ,.side ,.second ,.tagTitle{
+    background-color: white;
+}
+
+body{
+    background-color: lightgray;
+}
