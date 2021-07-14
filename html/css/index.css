@@ -221,6 +221,7 @@ div.subMain{
     background-color: white;
 }
 
-body{
+body,.title .heading{
     background-color: lightgray;
 }
+
