@@ -1,0 +1,218 @@
+
+.title .heading{
+   text-align: center;
+   margin-bottom: 8%;
+   font-size: 25px;
+    
+}
+
+.title img{
+    width: 103%;
+    margin-left: -13px;
+    margin-top: -12px;
+}
+div.title{
+    width: 60%;
+    padding: 1%;
+    text-align: justify;
+    box-shadow: 1px 1px 1px 1px black;
+    
+}
+
+.title .subTitle .body .button{
+    padding-top: 4%;
+    margin-top: 18%;
+}
+
+.title .subTitle .body .button button{
+    padding: 1%;
+    font-weight: bold;
+    background-color: white;
+
+   
+
+}
+.title .subTitle .body .button .comment{
+    position: relative;
+    top: -52px;
+    font-size: 18px;
+    left: 80%;
+}
+
+#num{
+    background-color: black;
+    padding: 3px;
+    
+    color: white;
+}
+
+.side{
+    width: 30%;
+    position: relative;
+    left: 65%;
+    padding: 1%;
+    text-align: center;
+    top: -680px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+.side .heading h2{
+    text-align: justify;
+    margin-left: 5%;
+}
+
+.side .heading .body p{
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 7%;
+    margin-bottom: 3%;
+}
+
+
+.subMain img{
+    width: 103%;
+    margin-left: -13px;
+    margin-top: -12px;
+}
+div.subMain{
+    width: 60%;
+    padding: 1%;
+    margin-top: -31%;
+    text-align: justify;
+    box-shadow: 1px 1px 1px 1px black;
+    
+}
+
+.subMain .subHeading .body .button{
+    padding-top: 4%;
+    margin-top: 18%;
+}
+
+.subMain .subHeading .body .button button{
+    padding: 1%;
+    font-weight: bold;
+    background-color: white;
+
+   
+
+}
+.subMain .subHeading .body .button .comment{
+    position: relative;
+    top: -52px;
+    font-size: 18px;
+    left: 80%;
+}
+
+.second .head .posts{
+    padding: 1%;
+    background-color: rgb(241, 154, 154);
+    border-bottom: 1px solid black;
+}
+
+.second .head .sideImage img{  /*Images CSS*/
+    width: 15%;
+    position: relative;
+    left: 2%;
+    margin-top: 2.5%;
+    
+}
+
+.second .head .sideImage{        /*Images + body-text CSS*/
+    position: relative;
+    top: 1px;
+    height: 90px;
+    border-bottom: 1px solid black;
+    
+    
+}
+
+
+
+
+.second{
+    position: relative;
+    left: 65%;
+    top: -890px;
+    box-shadow: 1px 1px 1px 1px black;
+    width: 32%;
+    
+}
+
+
+
+
+.second .head .sideImage .sideTitle{
+    position: relative;
+    left: 20%;
+    top: -85px;
+    
+}
+
+.second .head .sideImage .sideTitle .sideSubTitle{
+    margin-top: -6px;
+    font-style: italic;
+}
+
+.tagTitle{
+    position: relative;
+    left: 65%;
+    top: -850px;
+    height: 200px;
+    box-shadow: 1px 1px 1px 1px black;
+    width: 32%;
+    
+    
+}
+
+.tagTitle .h2{
+    position: relative;
+    left: 4%;
+    top: 15px;
+    
+}
+.tagTitle ul li{
+    list-style-type: none;
+    position: relative;
+    top: 10px;
+    display: inline-block;
+    left: -5%;
+   
+}
+
+.tagTitle #block1 li{
+    position: relative;
+    display: inline-block;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: 1px solid black;
+}
+
+.tagTitle #block2 li{
+    position: relative;
+    display: inline-block;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: 1px solid black;
+}
+
+.tagTitle #block3 li{
+    position: relative;
+    display: inline-block;
+    padding: 1%;
+    border: 1px solid black;
+}
+
+.btns{
+    position: relative;
+    top: -550px;
+    display: inline-block;
+    width: 96%;
+    padding: 2%;
+    height: 100px;
+    padding-bottom: 5%;
+    background-color: grey;
+
+}
+.btns .prevNext button{
+    padding: 1%;
+}
